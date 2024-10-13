@@ -1,7 +1,7 @@
 package cn.ssm.org;
 
-public class lql {
+public class spider {
     public static void main(String[] args) {
-        System.out.println("hello");
+
     }
 }
